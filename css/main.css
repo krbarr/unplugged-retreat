@@ -243,6 +243,8 @@ footer .copyright {
 	display: flex;
 	justify-content: center;
 	flex-flow: row wrap;
+	background: url('../img/hero-image.jpg') center no-repeat #333;
+	backgroung-size: cover;
 }
 
 .hero-area h1 {
