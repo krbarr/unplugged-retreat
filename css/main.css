@@ -330,10 +330,10 @@ input[type=button] {
 	text-align: center;
 }
 
-.fontawesome-icon {
-	display: flex;
-	justify-content: center;
-	align-items: center;
+
+.features i {
+	font-size: 3.75em;
+        margin-bottom: 40px;
 }
 
 .features-item-description {
